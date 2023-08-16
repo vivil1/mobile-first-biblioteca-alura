@@ -6,6 +6,7 @@
 }
 .cabecalho{
 background-color: var(--branco);
+justify-content: space-around;
 }
 
 .div-1{
