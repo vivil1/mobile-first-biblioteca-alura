@@ -5,8 +5,6 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
-    margin: 0px;
-    padding: 0px;
 }
 .cabecalho{
 background-color: var(--branco);
