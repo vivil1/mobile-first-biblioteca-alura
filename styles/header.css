@@ -34,7 +34,11 @@ h1{
 }
 
 .lista-menu-titulo{
-    color: var(--amarelo)
+    color: #FECD2F;
+}
+
+.lista-menu-link{
+
 }
 
 @media screen and (min-width:1024px) {
