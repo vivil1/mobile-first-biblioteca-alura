@@ -33,6 +33,10 @@ h1{
     background-color: var(--branco);
 }
 
+.lista-menu-titulo{
+    color: var(--amarelo)
+}
+
 @media screen and (min-width:1024px) {
     h1{
     display: block;
