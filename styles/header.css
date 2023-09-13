@@ -34,7 +34,7 @@ h1{
 }
 
 .lista-menu-titulo{
-    color: #FECD2F;
+    color: var(amarelo);
 }
 
 .lista-menu-link{
