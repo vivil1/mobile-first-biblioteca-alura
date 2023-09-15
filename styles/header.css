@@ -35,6 +35,8 @@ h1{
 
 .lista-menu-titulo{
     color: var(--amarelo);
+    font-weight: 700;
+    
 }
 
 .lista-menu-link{
