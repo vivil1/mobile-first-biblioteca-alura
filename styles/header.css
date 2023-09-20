@@ -58,7 +58,7 @@ h1{
 }
 
 .lista-menu{
-    display: none;
+   display: none;
 }
 
 .div-menu:checked ~.lista-menu{
